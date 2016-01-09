@@ -2,32 +2,32 @@
 "type": "FeatureCollection",
 "features": [
 {
+"type": "Feature",
 "properties": {
 "name" : "Gorzno",
 "country" : "PL",
 },
 "geometry": {
+"type": "Point"
 "coordinates": [
 19.643169,
 53.197788
-],
-"type": "Point"
-},
-"type": "Feature"
+]
+}
 },
 {
+"type": "Feature",
 "properties": {
 "name" : "Bartniczka",
 "country" : "PL",
 },
 "geometry": {
+"type": "Point",
 "coordinates": [
 19.60433,
 53.247761
-],
-"type": "Point"
-},
-"type": "Feature"
+]
+}
 }
 ]
 }
