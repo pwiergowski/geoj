@@ -2,30 +2,134 @@
 "type": "FeatureCollection",
 "features": [
 {
-"type": "Feature",
 "properties": {
 "name" : "Gorzno"
 },
 "geometry": {
-"type": "Point",
 "coordinates": [
 19.643169,
 53.197788
-]
-}
+],
+"type": "Point"
+},
+"type": "Feature"
 },
 {
-"type": "Feature",
 "properties": {
 "name" : "Bartniczka"
 },
 "geometry": {
-"type": "Point",
 "coordinates": [
 19.60433,
 53.247761
-]
-}
+],
+"type": "Point"
+},
+"type": "Feature"
+},
+{
+"properties": {
+"name" : "Lidzbark"
+},
+"geometry": {
+"coordinates": [
+19.823799,
+53.259998
+],
+"type": "Point"
+},
+"type": "Feature"
+},
+{
+"properties": {
+"name" : "Lidzbark"
+},
+"geometry": {
+"coordinates": [
+19.82663,
+53.262829
+],
+"type": "Point"
+},
+"type": "Feature"
+},
+{
+"properties": {
+"name" : "Brzozie"
+},
+"geometry": {
+"coordinates": [
+19.604851,
+53.325539
+],
+"type": "Point"
+},
+"type": "Feature"
+},
+{
+"properties": {
+"name" : "Swiedziebnia"
+},
+"geometry": {
+"coordinates": [
+19.55463,
+53.152069
+],
+"type": "Point"
+},
+"type": "Feature"
+},
+{
+"properties": {
+"name" : "Lubowidz"
+},
+"geometry": {
+"coordinates": [
+19.84594,
+53.118649
+],
+"type": "Point"
+},
+"type": "Feature"
+},
+{
+"properties": {
+"name" : "Powiat brodnicki"
+},
+"geometry": {
+"coordinates": [
+19.422791,
+53.269821
+],
+"type": "Point"
+},
+"type": "Feature"
+},
+{
+"properties": {
+"name" : "Brodnica"
+},
+"geometry": {
+"coordinates": [
+19.406401,
+53.2579
+],
+"type": "Point"
+},
+"type": "Feature"
+},
+{
+"properties": {
+"name" : "Kurzetnik"
+},
+"geometry": {
+"coordinates": [
+19.578581,
+53.398579
+],
+"type": "Point"
+},
+"type": "Feature"
 }
 ]
 }
