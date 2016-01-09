@@ -3,10 +3,7 @@
 "features": [
 {
 "type": "Feature",
-"properties": {
-"name" : "Gorzno",
-"country" : "PL",
-},
+"properties": {},
 "geometry": {
 "type": "Point"
 "coordinates": [
@@ -17,10 +14,7 @@
 },
 {
 "type": "Feature",
-"properties": {
-"name" : "Bartniczka",
-"country" : "PL",
-},
+"properties": {},
 "geometry": {
 "type": "Point",
 "coordinates": [
