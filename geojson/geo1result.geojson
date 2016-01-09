@@ -4,8 +4,7 @@
 {
 "type": "Feature",
 "properties": {
-"name" : "Gorzno",
-"country" : "PL",
+"name" : "Gorzno"
 },
 "geometry": {
 "type": "Point",
@@ -18,8 +17,7 @@
 {
 "type": "Feature",
 "properties": {
-"name" : "Bartniczka",
-"country" : "PL",
+"name" : "Bartniczka"
 },
 "geometry": {
 "type": "Point",
